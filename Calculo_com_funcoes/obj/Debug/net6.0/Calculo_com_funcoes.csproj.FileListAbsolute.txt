@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Projects\C#\.NET\Desafio_calculo\Calculo_com_funcoes\bin\Debug\net6.0\Calculo_com_funcoes.exe
+C:\xampp\htdocs\Projects\C#\.NET\Desafio_calculo\Calculo_com_funcoes\bin\Debug\net6.0\Calculo_com_funcoes.deps.json
+C:\xampp\htdocs\Projects\C#\.NET\Desafio_calculo\Calculo_com_funcoes\bin\Debug\net6.0\Calculo_com_funcoes.runtimeconfig.json
+C:\xampp\htdocs\Projects\C#\.NET\Desafio_calculo\Calculo_com_funcoes\bin\Debug\net6.0\Calculo_com_funcoes.dll
+C:\xampp\htdocs\Projects\C#\.NET\Desafio_calculo\Calculo_com_funcoes\bin\Debug\net6.0\ref\Calculo_com_funcoes.dll
+C:\xampp\htdocs\Projects\C#\.NET\Desafio_calculo\Calculo_com_funcoes\bin\Debug\net6.0\Calculo_com_funcoes.pdb
+C:\xampp\htdocs\Projects\C#\.NET\Desafio_calculo\Calculo_com_funcoes\obj\Debug\net6.0\Calculo_com_funcoes.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Projects\C#\.NET\Desafio_calculo\Calculo_com_funcoes\obj\Debug\net6.0\Calculo_com_funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Projects\C#\.NET\Desafio_calculo\Calculo_com_funcoes\obj\Debug\net6.0\Calculo_com_funcoes.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Projects\C#\.NET\Desafio_calculo\Calculo_com_funcoes\obj\Debug\net6.0\Calculo_com_funcoes.AssemblyInfo.cs
+C:\xampp\htdocs\Projects\C#\.NET\Desafio_calculo\Calculo_com_funcoes\obj\Debug\net6.0\Calculo_com_funcoes.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Projects\C#\.NET\Desafio_calculo\Calculo_com_funcoes\obj\Debug\net6.0\Calculo_com_funcoes.dll
+C:\xampp\htdocs\Projects\C#\.NET\Desafio_calculo\Calculo_com_funcoes\obj\Debug\net6.0\ref\Calculo_com_funcoes.dll
+C:\xampp\htdocs\Projects\C#\.NET\Desafio_calculo\Calculo_com_funcoes\obj\Debug\net6.0\Calculo_com_funcoes.pdb
+C:\xampp\htdocs\Projects\C#\.NET\Desafio_calculo\Calculo_com_funcoes\obj\Debug\net6.0\Calculo_com_funcoes.genruntimeconfig.cache
