@@ -1,2 +1,2 @@
 # Desafio-calculo
-Criação de um APP de cálculo de funções com .NET
+Criação de um APP para cálculo de funções com .NET
